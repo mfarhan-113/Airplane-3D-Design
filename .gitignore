@@ -1,0 +1,7 @@
+.next/
+node_modules/
+.demo-data/
+.tools/
+.node.zip
+*.tsbuildinfo
+next-env.d.ts
